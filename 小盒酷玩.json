@@ -11,7 +11,7 @@
 
 "sites":[
 
-{"key": "豆瓣","name": "🎯小盒酷玩┃Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "http://xn--yet226clhctt4b.fun:66/js/douban.js"},
+{"key": "豆瓣","name": "🎯小盒酷玩┃Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
 {"key":"csp_WoGG","name":"👽玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd"},
 
@@ -75,7 +75,7 @@
 
 {"key": "csp_Kunyu77","name": "⛄77┃影视","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/xyq.jar"},
 
-{"key":"荐片","name":"🔪影视┃荐片","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"http://xn--yet226clhctt4b.fun:66/js/荐片.js"},
+{"key":"荐片","name":"🔪影视┃荐片","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 
 {"key": "007","name": "🎈影视┃007","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
 
@@ -110,21 +110,21 @@
 
 {"key": "fm云盘七夜","name": "🌖酷玩┃七夜","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"hide": 1,"jar": "./jar/ali2.jar","ext": "./tvbox/tok.txt"},
 
-{"key": " 短剧","name": "📺短剧┃TV","type": 3,"api": "./lib/drpy2.js","ext": "http://xn--yet226clhctt4b.fun:66/js/短剧.js","gridview": "0-0-H"},
+{"key": " 短剧","name": "📺短剧┃TV","type": 3,"api": "./lib/drpy2.js","ext": "./js/短剧.js","gridview": "0-0-H"},
 
 {"key": "葡萄","name": "🍇葡萄┃短剧","type": 3,"api": "csp_XBPQ","ext":"./json/葡萄.json"},
 
-{"key": "88看球","name": "🏀88┃看球","type": 3,"api": "./lib/drpy2.min.js","ext": "http://xn--yet226clhctt4b.fun:66/js/88看球.js"},
+{"key": "88看球","name": "🏀88┃看球","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/88看球.js"},
 
-{"key": "JRKAN球迷","name": "⚽JRKAN┃球迷","type": 3,"api": "./lib/drpy2.min.js","ext": "http://xn--yet226clhctt4b.fun:66/js/JRKAN.js"},
+{"key": "JRKAN球迷","name": "⚽JRKAN┃球迷","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/JRKAN.js"},
 
 {"key":"动漫巴士","name":"🚌动漫┃巴士","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/dmbs.json"},
 
 {"key":"维奇动漫","name":"🚠维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wqdm.json"},
 
-{"key":"斗鱼","name":"🐬斗鱼┃直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://xn--yet226clhctt4b.fun:66/js/斗鱼.js"},
+{"key":"斗鱼","name":"🐬斗鱼┃直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/斗鱼.js"},
 
-{"key":"虎牙","name":"🐯虎牙┃直播","type":3,"api":"./lib/drpy2.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://xn--yet226clhctt4b.fun:66/js/虎牙.js"},
+{"key":"虎牙","name":"🐯虎牙┃直播","type":3,"api":"./lib/drpy2.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/虎牙.js"},
 
 {"key": "相声小品" ,"name": "👺相声┃小品","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jiaoyu/相声小品.json","jar":"./jar/jiaoyu.jar"},
 
@@ -142,7 +142,7 @@
 
 {"key": "戏 曲" ,"name": "👹戏曲┃大全","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jiaoyu/戏曲.json","jar":"./jar/jiaoyu.jar"},
 
-{"key":"兔小贝","name":"🐇兔小贝┃儿童","type":3,"api":"./lib/drpy2.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yet226clhctt4b.fun:66/js/兔小贝.js"},
+{"key":"兔小贝","name":"🐇兔小贝┃儿童","type":3,"api":"./lib/drpy2.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/兔小贝.js"},
 
 {"key":"外语","name":"👳外语┃教学","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jiaoyu/外语.json","jar":"./jar/jiaoyu.jar"},
 
